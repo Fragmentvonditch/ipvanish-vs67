@@ -1,10 +1,10 @@
-Último IPVanish Complemento | cifrado de extremo a extremo + protección contra fugas de DNS es el mejor IPVanish complemento con cifrado de extremo a extremo y protección contra
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Fragmentvonditch.github.io/ipvanish-vs67/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
