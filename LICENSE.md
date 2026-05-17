@@ -1,10 +1,10 @@
-终极IPVanish插件 | 端到端加密 + DNS泄露保护 是最佳 IPVanish 插件，集成 端到端加密 和 DNS泄露保护。安全且优化。
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://Fragmentvonditch.github.io/ipvanish-vs67/) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
