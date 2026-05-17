@@ -1,4 +1,4 @@
-
+Ultimate IPVanish Plugin | end-to-end encryption + DNS leak protection is the best IPVanish plugin with end-to-end encryption and DNS leak protection. Secure and optimized.
 
 
 
